@@ -1,0 +1,19 @@
+{
+    "name": "vendor/activitat3-funcions",
+    "description": "Description of project Activitat3Funcions.",
+    "authors": [
+        {
+            "name": "Yala",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "filp/whoops": "^2.4",
+        "twbs/bootstrap": "^4.3"
+    },
+    "autoload": {
+        "files": [
+            "Helpers/myHelpers.php"
+        ]
+    }
+}
